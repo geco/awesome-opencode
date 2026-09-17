@@ -1,0 +1,10 @@
+name: Opencode MemPalace Persistence
+repo: https://github.com/geco/opencode-mempalace-persistence
+tagline: Real-time memory sync to MemPalace with recall
+description: Auto-saves every conversation to MemPalace (local vector memory, zero cloud) and injects relevant memories into prompts. AI checkpoints, pre-compaction rescue, Knowledge Graph facts and session diaries via MCP tools.
+scope:
+  - global
+tags:
+  - memory
+  - persistence
+  - rag
